@@ -81,7 +81,7 @@ Test Bios Teardown
     ...              debugging purposes.
 
     Printn
-    Run Key  FFDC On Test Case Fail
+    Run Key  FFDC
 
 Validate Parameters
     [Documentation]   Validate parameter and file existence.
